@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata Diri</title>
+</head>
+<body>
+    <h1>Biodata Diri</h1>
+    <img src="link_gambar_anda.jpg" alt="Foto Profil">
+
+    <h2>Informasi Pribadi</h2>
+    <p><strong>Nama:</strong> Mohammad Aqsha Arianto Latif</p>
+    <p><strong>Umur:</strong> 20 tahun</p>
+    <p><strong>Jenis Kelamin:</strong> Laki-laki</p>
+    <p><strong>Alamat:</strong> Jln. Mustafa Dg. Bunga, Gowa</p>
+    <p><strong>Email:</strong> latifmaa21d@student.unhas.ac.id</p>
+    <p><strong>Telepon:</strong> 0895800295166</p>
+
+    <h2>Pendidikan</h2>
+    <p><strong>SD:</strong> SDN 11 PANGSID</p>
+    <p><strong>Tahun Lulus:</strong> 2015</p>
+    <p><strong>SMP:</strong> SMPN 1 SIDRAP</p>
+    <p><strong>Tahun Lulus:</strong> 2015</p>
+    <p><strong>SMA:</strong> SMAN 2 SIDRAP</p>
+    <p><strong>Tahun Lulus:</strong> 2015</p>
+
+</body>
+</html>
